@@ -15,7 +15,7 @@ class TodoApp extends React.Component {
 			<TodoHeader />
 			<InputField />
 			<TodoList />
-		</div>;
+		</div>
 	);
   }
 }
